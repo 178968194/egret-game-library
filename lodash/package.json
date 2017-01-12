@@ -1,0 +1,16 @@
+{
+	"name": "egret",
+	"version": "3.2.3",
+	"modules": [
+		{
+			"name": "lodash",
+			"description": "lodash",
+			"files": [
+				"lodash.js",
+				"lodash.min.js",
+				"index.d.ts"
+			],
+			"root": "src"
+		}
+	]
+}

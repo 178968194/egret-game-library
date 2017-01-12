@@ -1,0 +1,15 @@
+{
+	"name": "egret",
+	"version": "3.2.3",
+	"modules": [
+		{
+			"name": "tween",
+			"description": "tween.js",
+			"files": [
+				"Tween.js",
+				"index.d.ts"
+			],
+			"root": "src"
+		}
+	]
+}
